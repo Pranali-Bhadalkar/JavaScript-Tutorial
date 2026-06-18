@@ -1,0 +1,14 @@
+.heading
+{
+    color:red;
+    background-color: yellow;
+}
+
+body{
+    background-color: pink;
+}
+
+#myId{
+    background-color: blue;
+    color: white;
+}
